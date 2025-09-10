@@ -42,6 +42,7 @@ I'm a developer specializing in **C, Python, and HTML**, passionate about clean,
 ### 🤝 Connect With Me  
 [![Instagram](https://img.shields.io/badge/-@bm__napoli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bm__napoli)  
 [![Facebook](https://img.shields.io/badge/-BM%20NAPOLI-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)  
+[![Twitter](https://img.shields.io/badge/-@minazzou48116-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/minazzou48116)  
 
 ---
 
