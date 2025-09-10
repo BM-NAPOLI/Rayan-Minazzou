@@ -50,6 +50,17 @@ I'm a developer specializing in **C, Python, and HTML**, passionate about clean,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=tokyonight" width="48%"/>  
 
 ---
+### 📊 GitHub Stats (Python)  
+<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=radical&title_color=ffdd57&text_color=ffffff&icon_color=ffdd57&custom_title=BM-NAPOLI's%20GitHub%20Stats%20-%20Python" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=radical&title_color=ffdd57&text_color=ffffff" width="48%"/>  
+
+---
+
+### 📊 GitHub Stats (HTML)  
+<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=gruvbox&title_color=ff6f61&text_color=ffffff&icon_color=ff6f61&custom_title=BM-NAPOLI's%20GitHub%20Stats%20-%20HTML" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=gruvbox&title_color=ff6f61&text_color=ffffff" width="48%"/>  
+
+---
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=BM-NAPOLI&label=Profile%20views&color=0e75b6&style=for-the-badge)  
