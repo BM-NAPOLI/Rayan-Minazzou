@@ -81,7 +81,7 @@ class About extends Me {
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="[https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg](https://st2.depositphotos.com/5338056/8401/v/450/depositphotos_84016778-stock-illustration-hand-drawn-web-development-on.jpg)" >
 
 </details>
   
