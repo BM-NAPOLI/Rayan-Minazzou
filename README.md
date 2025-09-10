@@ -1,12 +1,13 @@
 <h1 align="center">👑 BM NAPOLI 👑</h1>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="BM Napoli" width="200" style="border-radius:50%"/>
+</p>
+
 ###  About Me  
 I'm a developer specializing in **C, Python, and HTML**, passionate about clean, efficient code and crafting web experiences that matter. Currently exploring full-stack development and building meaningful projects.
 
 ---
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="BM Napoli" width="200" style="border-radius:50%"/>
-</p>
 
 ###  Featured Projects  
 | Project | Description |
