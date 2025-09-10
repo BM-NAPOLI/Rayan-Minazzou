@@ -34,9 +34,21 @@ I'm a developer specializing in **C, Python, and HTML**, passionate about clean,
 
 ---
 
-### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=tokyonight" width="48%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=tokyonight" width="48%"/>
+### 📊 GitHub Stats (C)  
+<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=tokyonight&title_color=00bfff&text_color=ffffff&icon_color=00bfff&custom_title=BM-NAPOLI's%20GitHub%20Stats%20-%20C" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=tokyonight&title_color=00bfff&text_color=ffffff" width="48%"/>  
+
+---
+
+### 📊 GitHub Stats (Python)  
+<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=radical&title_color=ffdd57&text_color=ffffff&icon_color=ffdd57&custom_title=BM-NAPOLI's%20GitHub%20Stats%20-%20Python" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=radical&title_color=ffdd57&text_color=ffffff" width="48%"/>  
+
+---
+
+### 📊 GitHub Stats (HTML)  
+<img src="https://github-readme-stats.vercel.app/api?username=BM-NAPOLI&show_icons=true&theme=gruvbox&title_color=ff6f61&text_color=ffffff&icon_color=ff6f61&custom_title=BM-NAPOLI's%20GitHub%20Stats%20-%20HTML" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-NAPOLI&layout=compact&theme=gruvbox&title_color=ff6f61&text_color=ffffff" width="48%"/>  
 
 ---
 
